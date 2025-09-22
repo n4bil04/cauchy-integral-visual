@@ -1,2 +1,2 @@
 # cauchy-integral-visual
-Tugas Variabel Kompleks
+Visualisasi hasil penerapan rumus Cauchy-Riemann pada persamaan integral
